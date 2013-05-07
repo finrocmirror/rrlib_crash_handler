@@ -25,6 +25,8 @@
  *
  * \date    2012-06-20
  *
+ * \brief
+ *
  * Facilities to install signal handlers to handle program crashes.
  *
  */
