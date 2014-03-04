@@ -34,6 +34,7 @@
 #include <sys/prctl.h>
 #include <sys/wait.h>
 #include <sstream>
+#include <unistd.h>
 
 //----------------------------------------------------------------------
 // Internal includes with ""
